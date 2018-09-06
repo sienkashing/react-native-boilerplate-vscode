@@ -12,6 +12,10 @@
     "class-methods-use-this": "off",
     "react/require-default-props": "off",
     "react/prefer-stateless-function": "off",
-    "no-return-assign": ["off", "except-parens"]
+    "no-return-assign": ["off", "except-parens"],
+    "global-require": "off",
+    "react/no-multi-comp": "off",
+    "react/no-array-index-key": "off",
+    "import/no-unresolved": "off"
   }
 }
