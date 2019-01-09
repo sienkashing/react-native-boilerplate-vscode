@@ -16,6 +16,14 @@
     "global-require": "off",
     "react/no-multi-comp": "off",
     "react/no-array-index-key": "off",
-    "import/no-unresolved": "off"
+    "import/no-unresolved": "off",
+    "react/sort-comp": "off",
+    "no-underscore-dangle": "off",
+    "react/no-unescaped-entities": "off",
+    "jsx-a11y/accessible-emoji": "off",
+    "max-len": "off",
+    "react/destructuring-assignment": "off",
+    "no-param-reassign": "off",
+    "no-plusplus": "off"
   }
 }
